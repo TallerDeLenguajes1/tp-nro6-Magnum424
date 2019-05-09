@@ -1,0 +1,5 @@
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Tp6\tp-nro6-Magnum424\Solucion-tp6\Pto2\bin\Debug\Pto2.exe.config
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Tp6\tp-nro6-Magnum424\Solucion-tp6\Pto2\bin\Debug\Pto2.exe
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Tp6\tp-nro6-Magnum424\Solucion-tp6\Pto2\bin\Debug\Pto2.pdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Tp6\tp-nro6-Magnum424\Solucion-tp6\Pto2\obj\Debug\Pto2.exe
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Tp6\tp-nro6-Magnum424\Solucion-tp6\Pto2\obj\Debug\Pto2.pdb

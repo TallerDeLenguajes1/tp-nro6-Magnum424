@@ -1,0 +1,6 @@
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Tp6\tp-nro6-Magnum424\Solucion-tp6\Pto1\bin\Debug\Pto1.exe.config
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Tp6\tp-nro6-Magnum424\Solucion-tp6\Pto1\bin\Debug\Pto1.exe
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Tp6\tp-nro6-Magnum424\Solucion-tp6\Pto1\bin\Debug\Pto1.pdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Tp6\tp-nro6-Magnum424\Solucion-tp6\Pto1\obj\Debug\Pto1.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Tp6\tp-nro6-Magnum424\Solucion-tp6\Pto1\obj\Debug\Pto1.exe
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Tp6\tp-nro6-Magnum424\Solucion-tp6\Pto1\obj\Debug\Pto1.pdb
