@@ -1,0 +1,7 @@
+C:\Users\Alejandro\Source\Repos\tp-nro6-Magnum424\Solucion-tp6\Pto4\bin\Debug\Pto4.exe.config
+C:\Users\Alejandro\Source\Repos\tp-nro6-Magnum424\Solucion-tp6\Pto4\bin\Debug\Pto4.exe
+C:\Users\Alejandro\Source\Repos\tp-nro6-Magnum424\Solucion-tp6\Pto4\bin\Debug\Pto4.pdb
+C:\Users\Alejandro\Source\Repos\tp-nro6-Magnum424\Solucion-tp6\Pto4\obj\Debug\Pto4.csprojAssemblyReference.cache
+C:\Users\Alejandro\Source\Repos\tp-nro6-Magnum424\Solucion-tp6\Pto4\obj\Debug\Pto4.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Source\Repos\tp-nro6-Magnum424\Solucion-tp6\Pto4\obj\Debug\Pto4.exe
+C:\Users\Alejandro\Source\Repos\tp-nro6-Magnum424\Solucion-tp6\Pto4\obj\Debug\Pto4.pdb
