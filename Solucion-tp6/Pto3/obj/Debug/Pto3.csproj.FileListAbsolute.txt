@@ -1,0 +1,7 @@
+C:\Users\Alejandro\Source\Repos\tp-nro6-Magnum424\Solucion-tp6\Pto3\bin\Debug\Pto3.exe.config
+C:\Users\Alejandro\Source\Repos\tp-nro6-Magnum424\Solucion-tp6\Pto3\bin\Debug\Pto3.exe
+C:\Users\Alejandro\Source\Repos\tp-nro6-Magnum424\Solucion-tp6\Pto3\bin\Debug\Pto3.pdb
+C:\Users\Alejandro\Source\Repos\tp-nro6-Magnum424\Solucion-tp6\Pto3\obj\Debug\Pto3.csprojAssemblyReference.cache
+C:\Users\Alejandro\Source\Repos\tp-nro6-Magnum424\Solucion-tp6\Pto3\obj\Debug\Pto3.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Source\Repos\tp-nro6-Magnum424\Solucion-tp6\Pto3\obj\Debug\Pto3.exe
+C:\Users\Alejandro\Source\Repos\tp-nro6-Magnum424\Solucion-tp6\Pto3\obj\Debug\Pto3.pdb
