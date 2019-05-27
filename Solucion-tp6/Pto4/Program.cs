@@ -74,12 +74,7 @@ namespace Pto4
             }
             Console.ReadKey();
             //Obtengo la longitud de la cadena
-            int count = 0;
-            foreach (char caracter in cad3)
-            {
-                count++;                
-            }
-            Console.WriteLine("La cadena tiene {0} caracteres de largo.",count);
+            Console.WriteLine("La cadena tiene {0} caracteres de largo.",cad3.Length);
             Console.ReadKey();
         }
     }
